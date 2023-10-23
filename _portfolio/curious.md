@@ -31,7 +31,7 @@ and change numbers
 </div>
   
 <div class="mySlides fade">
-  <img src="/images/curious/curious-pattern-research.png" style="width:100%">
+  <img src="/images/curious/curious-pattern research.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
