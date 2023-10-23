@@ -1,10 +1,11 @@
-permalink: /
+permalink: /artist-statement/
 title: "Artist Statement"
 excerpt: "Artist Statement"
 author_profile: true
 redirect_from: 
   - /about
   - /about.html
+  - /
 
 
 As a props designer, I believe that the objects on stage can be just as powerful as the actors themselves. Props have the ability to transport audiences to different worlds and eras, to enhance the storytelling, and to provide insight into the characters. In my work, I strive to balance aesthetics with practicality, always keeping in mind the needs of the actors and the production team. I believe props that don't just look great on stage but also function realistically, when practical, increases the immersion experienced by audiences and especially actors. 
