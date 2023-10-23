@@ -18,7 +18,7 @@ redirect_from:
 Theatre Experience
 ======
 **Other**
-======
+---------------
 **Maine State Music Theatre** — *Stage Ops Crew* May 2023 - August 2023 
   * Backstage crew for 4 productions Titanic the musical, The Buddy Holly Story, 9 to 5, Something Rotten. 
   * Fly rail crew for Titanic the musical, Something Rotten. 
