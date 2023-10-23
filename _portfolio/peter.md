@@ -35,7 +35,7 @@ and change numbers
 </div>
 
 <div class="mySlides fade">
-  <img src="/images/peter/peter-wiring.jpg" style="width:100%">
+  <img src="/images/peter/peter-amulate-wiring.jpg" style="width:100%">
 </div>
   
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
