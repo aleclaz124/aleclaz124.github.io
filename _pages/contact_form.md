@@ -1,4 +1,4 @@
----
+  ---
 permalink: /artist-statement/
 title: ""
 excerpt: ""
