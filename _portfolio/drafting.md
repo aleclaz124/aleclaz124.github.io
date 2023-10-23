@@ -35,19 +35,19 @@ and change numbers
 </div>
 
 <div class="mySlides fade">
-  <img src="/images/drafting/stained-glass.jpg" style="width:100%">
+  <img src="/images/drafting/stained-glass.png" style="width:100%">
 </div>
   
 <div class="mySlides fade">
-  <img src="/images/drafting/stained-glass-elevation.jpg" style="width:100%">
+  <img src="/images/drafting/stained-glass-elevation.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <img src="/images/drafting/room-drafting.jpg" style="width:100%">
+  <img src="/images/drafting/room-drafting.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <img src="/images/drafting/room-drafting-elevation.jpg" style="width:100%">
+  <img src="/images/drafting/room-drafting-elevation.png" style="width:100%">
 </div>
 
   
