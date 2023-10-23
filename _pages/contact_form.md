@@ -1,5 +1,5 @@
 ---
-permalink: /contact_form/
+permalink: /artist-statement/
 title: ""
 excerpt: ""
 author_profile: false
