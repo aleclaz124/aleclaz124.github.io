@@ -40,8 +40,19 @@ and change numbers
 </div>
 
 <div class="mySlides fade">
-  <!--<div class="numbertext">3 / 3</div>-->
   <img src="/images/everybody/everybody_set_wide_falsepro.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/everybody-god/god-head.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/everybody-god/god-full-body.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/everybody-god/god-with-fabric.jpg" style="width:100%">
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -56,6 +67,9 @@ and change numbers
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span> 
 </div>
 
   
