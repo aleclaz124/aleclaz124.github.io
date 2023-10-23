@@ -34,6 +34,7 @@ and change numbers
 
 <div class="mySlides fade">
   <img src="/images/little-women/little-women-piano-2.jpg" style="width:100%">
+</div>
 
 <div class="mySlides fade">
   <img src="/images/little-women/little-women-piano-3.jpg" style="width:100%">
