@@ -1,4 +1,4 @@
-permalink: /artist-statement/
+permalink: /artist-statement
 title: "Artist Statement"
 excerpt: "Artist Statement"
 author_profile: true
