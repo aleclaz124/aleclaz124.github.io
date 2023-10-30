@@ -16,7 +16,7 @@ redirect_from:
 Theatre Experience
 ======
 
-**Other**
+**Run Crew**
 ======
 
 **Maine State Music Theatre** — *Stage Ops Crew* May 2023 - August 2023 
