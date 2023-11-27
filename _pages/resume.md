@@ -44,7 +44,7 @@ Theatre Experience
 | *Everybody*                          		 | Prop Master/Carpenter     | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
 | *Head Over Heels*                    		 | Prop Master               | Dir. Brianna Larson                       | Arkansas State University |
 | *Little Women*                       		 | Prop Master               | Dir. Brianna Larson                       | Arkansas State University |
-| *Revue*                              	         | Light operator/ Carpenter | Dir. Brianna Larson Des. Caisa Sanburg    | Arkansas State University |
+| *Revue*                              	         | Light Operator/ Carpenter | Dir. Brianna Larson Des. Caisa Sanburg    | Arkansas State University |
 | *She Kills Monsters: Virtual Realms* 	         | Carpenter                 | Des. Jeff McLaughlin                      | Arkansas State University |
 | *Curious Incident of the Dog in the Nighttime* | Scenic Designer 	     | Dir. DayDay Robinson 		         | Arkansas State University |
 
