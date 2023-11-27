@@ -28,11 +28,11 @@ Theatre Experience
 **Stage Management**   
 ======
 
-| Production                        | Position	               | Director			           | Location                  |
-|-----------------------------------|--------------------------|-------------------------------------------|---------------------------|
-| *God of Carnage*                  | Assistant Stage Manager  | Dir. Brandon Sterrett                     | Arkansas State University |
-| *The Importance of Being Earnest* | Stage Manager/Carpenter  | Dir. Brianna Larson Des. Jeff McLaughlin  | Arkansas State University |
-| *Peter and the Starcatcher*       | Stage Manager/Carpenter  | Dir. Dayday Robinson Des. Jeff McLaughlin | Arkansas State University |
+| Production                        		| Position	               | Director/Designer			   | Location                  |
+|-----------------------------------------------|------------------------------|-------------------------------------------|---------------------------|
+| *God of Carnage*                  		| Assistant Stage Manager      | Dir. Brandon Sterrett                     | Arkansas State University |
+| *The Importance of Being Earnest* 		| Stage Manager/Carpenter      | Dir. Brianna Larson Des. Jeff McLaughlin  | Arkansas State University |
+| *Peter and the Starcatcher*       		| Stage Manager/Carpenter      | Dir. Dayday Robinson Des. Jeff McLaughlin | Arkansas State University |
 
 
 **Design**
