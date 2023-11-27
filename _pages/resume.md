@@ -21,7 +21,7 @@ Theatre Experience
 
 **Maine State Music Theatre** — *Stage Ops Crew* May 2023 - August 2023 
   * Backstage crew for 4 productions *Titanic: the Musical, The Buddy Holly Story, 9 to 5,* and *Something Rotten.* 
-  * Fly rail crew for *Titanic: the Musical* and *Something Rotten*. 
+  * Fly rail crew for *Titanic: the Musical* and *Something Rotten.* 
   * Assisted in the scene shop as necessary.
   * Ran load rail and assisted fly rail during change over for all shows.
 
@@ -74,7 +74,7 @@ Skills
   * Designing, Printing, Performing Maintenance 
 * Designing and building props 
 * Experience with scenic design, joinery, and building techniques and processes
-* Drivers License (TN)
+* Driver's License (TN)
 
 References
 ======
