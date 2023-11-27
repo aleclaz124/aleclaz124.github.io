@@ -20,12 +20,12 @@ Theatre Experience
 ======
 
 **Maine State Music Theatre** — *Stage Ops Crew* May 2023 - August 2023 
-  * Backstage crew for 4 productions *Titanic the musical, The Buddy Holly Story, 9 to 5, Something Rotten.* 
-  * Fly rail crew for *Titanic the musical, Something Rotten*. 
+  * Backstage crew for 4 productions *Titanic the Musical, The Buddy Holly Story, 9 to 5, Something Rotten.* 
+  * Fly rail crew for *Titanic the Musical, Something Rotten*. 
   * Assisted in the scene shop as necessary.
   * Ran load rail and assisted fly rail during change over for all shows.
 
-**Stagemanagement**   
+**Stage Management**   
 ======
 
 | Production                        | Position	               | Director			          | Location                  |
@@ -53,7 +53,7 @@ Theatre Experience
 Related Theatrical Experience 
 ======
 
-**Memphis Escape Rooms** — *Production Specialist* May 2021- August 2021   
+**Memphis Escape Rooms** — *Production Specialist* May 2021 - August 2021   
   * Participated in the design, build, and beta processes for many rooms and performed maintenance on rooms.  
    
 Education
