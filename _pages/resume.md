@@ -20,33 +20,33 @@ Theatre Experience
 ======
 
 **Maine State Music Theatre** — *Stage Ops Crew* May 2023 - August 2023 
-  * Backstage crew for 4 productions *Titanic the Musical, The Buddy Holly Story, 9 to 5, Something Rotten.* 
-  * Fly rail crew for *Titanic the Musical, Something Rotten*. 
+  * Backstage crew for 4 productions *Titanic: the Musical, The Buddy Holly Story, 9 to 5,* and *Something Rotten.* 
+  * Fly rail crew for *Titanic: the Musical* and *Something Rotten*. 
   * Assisted in the scene shop as necessary.
   * Ran load rail and assisted fly rail during change over for all shows.
 
 **Stage Management**   
 ======
 
-| Production                        		| Position	               | Director/Designer			   | Location                  |
-|-----------------------------------------------|------------------------------|-------------------------------------------|---------------------------|
-| *God of Carnage*                  		| Assistant Stage Manager      | Dir. Brandon Sterrett                     | Arkansas State University |
-| *The Importance of Being Earnest* 		| Stage Manager/Carpenter      | Dir. Brianna Larson Des. Jeff McLaughlin  | Arkansas State University |
-| *Peter and the Starcatcher*       		| Stage Manager/Carpenter      | Dir. Dayday Robinson Des. Jeff McLaughlin | Arkansas State University |
+| Production                        		 | Position	               	| Director/Designer			    | Location                  |
+|------------------------------------------------|------------------------------|-------------------------------------------|---------------------------|
+| *God of Carnage*                  		 | Assistant Stage Manager      | Dir. Brandon Sterrett                     | Arkansas State University |
+| *The Importance of Being Earnest* 		 | Stage Manager/Carpenter      | Dir. Brianna Larson Des. Jeff McLaughlin  | Arkansas State University |
+| *Peter and the Starcatcher*       		 | Stage Manager/Carpenter      | Dir. Dayday Robinson Des. Jeff McLaughlin | Arkansas State University |
 
 
 **Design**
 ======
 
-| Production                         		 | Position                  | Director/Designer                         | Location                  |
-|------------------------------------------------|---------------------------|-------------------------------------------|---------------------------|
-| *A Christmas Carol: A Radio Play*    		 | Prop Master/Carpenter     | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
-| *Everybody*                          		 | Prop Master/Carpenter     | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
-| *Head Over Heels*                    		 | Prop Master               | Dir. Brianna Larson                       | Arkansas State University |
-| *Little Women*                       		 | Prop Master               | Dir. Brianna Larson                       | Arkansas State University |
-| *Revue*                              	         | Light Operator/ Carpenter | Dir. Brianna Larson Des. Caisa Sanburg    | Arkansas State University |
-| *She Kills Monsters: Virtual Realms* 	         | Carpenter                 | Des. Jeff McLaughlin                      | Arkansas State University |
-| *Curious Incident of the Dog in the Nighttime* | Scenic Designer 	     | Dir. DayDay Robinson 		         | Arkansas State University |
+| Production                         		 | Position                    | Director/Designer                         | Location                  |
+|------------------------------------------------|-----------------------------|-------------------------------------------|---------------------------|
+| *A Christmas Carol: A Radio Play*    		 | Prop Master/Carpenter       | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
+| *Everybody*                          		 | Prop Master/Carpenter       | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
+| *Head Over Heels*                    		 | Prop Master                 | Dir. Brianna Larson                       | Arkansas State University |
+| *Little Women*                       		 | Prop Master                 | Dir. Brianna Larson                       | Arkansas State University |
+| *Revue*                              	         | Light Operator/ Carpenter   | Dir. Brianna Larson Des. Caisa Sanburg    | Arkansas State University |
+| *She Kills Monsters: Virtual Realms* 	         | Carpenter                   | Des. Jeff McLaughlin                      | Arkansas State University |
+| *Curious Incident of the Dog in the Nighttime* | Scenic Designer 	       | Dir. DayDay Robinson 		           | Arkansas State University |
 
 
     
@@ -74,7 +74,7 @@ Skills
   * Designing, Printing, Performing Maintenance 
 * Designing and building props 
 * Experience with scenic design, joinery, and building techniques and processes
-* Drivers Licence (TN)
+* Drivers License (TN)
 
 References
 ======
